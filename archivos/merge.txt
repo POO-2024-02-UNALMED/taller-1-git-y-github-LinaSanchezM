@@ -1,3 +1,6 @@
 Lina Marcela Sánchez Morales
 22
 Mis aspiraciones en esta materia son aprender a programar en java y Python, reutilizar código y comprender este estilo con objetos
+Ahora puedo crear un commit y subir la carpeta porque contiene un archivo. Al subir un archivo perteneciente a la carpeta, se sube este en conjunto
+
+Es importante porque de esa forma se evitan los conflictos y se puede tener un mejor desarrollo sin tener que hacer revisiones posteriores
